@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can see my CV [here](https://boyoung-shin.github.io/files/)
+You can see my CV [here](https://boyoung-shin.github.io/files/2023_09_05_BShin_CV.pdf)
