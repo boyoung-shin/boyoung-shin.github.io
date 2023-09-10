@@ -31,9 +31,6 @@ In my graduate work, I examined the features of effector CD4 T cells contributin
 I also examined the effects of mitochondrial oxidative phosphorylation (OXPHOS) controlling pro-inflammatory properties of different subsets of CD4 T cells. I found that ATP-synthase-dependent OXPHOS orchestrated the fate decision between pro-inflammatory Th17 and anti-inflammatory, regulatory T cells. I showed that OXPHOS supported mTOR complex 1 activation in response to the TCR signaling, which was essential for inducing BATF, a key factor for establishing the Th17-chromatin accessibility profile. Consistently, inhibition of OXPHOS during Th17 differentiation prevented Th17-mediated neuroinflammation in the mouse model of multiple sclerosis. 
 [Shin et al., 2020 Cell Rep](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30031-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124720300310%3Fshowall%3Dtrue)
 
-*Complete list of published work:*
-#####
-[Google Scholar](https://scholar.google.com/citations?user=KRA8RWgAAAAJ&hl=en)
-[NCBI My Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/boyoung.shin.1/bibliography/public/)
+*Complete list of published work:* [Google Scholar](https://scholar.google.com/citations?user=KRA8RWgAAAAJ&hl=en), [NCBI My Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/boyoung.shin.1/bibliography/public/)
 
 
