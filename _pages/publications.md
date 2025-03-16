@@ -19,6 +19,7 @@ The follow-up project addressed why Runx factors occupied substantially differen
 
 I sought to update T cell gene network models, which represent the intricate structure of transcription factor-target gene relationships that direct T cell fate specification. As previous T cell gene network models did not include many of the recently reported datasets, I compiled published data and performed global data analysis.  This analysis revealed a modular structure of the gene regulatory network, in which coherently co-regulated genes formed several distinct modules, and each module operated as a unit of developmental programming.  In addition, this work showed how transcription factors collaborated or opposed each other’s function within the same module as well as between different modules to shape T cell developmental gene expression programs.  
 [Shin and Rothenberg, 2023 Front Immunol](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1108368/full)
+[Shin et al. , 2024 J Exp Med]([https://www.frontiersin.org/articles/10.3389/fimmu.2023.1108368/full](https://rupress.org/jem/article/221/10/e20230893/276927/Transcriptional-network-dynamics-in-early-T-cell))
 
 
 ### Effector CD4 T cells with progenitor potential mediate chronic intestinal inflammation
