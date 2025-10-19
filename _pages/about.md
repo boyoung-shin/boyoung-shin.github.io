@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About us"
+excerpt: "About us"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello. I am a postdoctoral fellow at Rothenberg lab, Caltech.  I study how gene networks specify immune cell identity and effector function.   In particular, I aim to understand how multilineage-expressed transcription factors exert context-specific gene regulation by synthesizing molecular biology, functional genomics, and cellular immunology approaches.  My research has been focused on (1) identifying molecular features of pathogenic CD4 T cells in chronic inflammation and (2) investigating how transcription factors control gene networks to instruct cell identity programs during early T cell development.  
+Shin Lab is a new research group in the Department of Microbiology and Immunology at Emory University. We investigate how gene regulatory networks define immune cell identity and effector functions. In particular, we focus on how transcription factors that are expressed across multiple lineages achieve context-specific gene regulation. To address these questions, we integrate molecular biology, functional genomics, and cellular immunology approaches.
+
+Our research centers on two main areas:
+* Gene regulation in T cell development – uncovering how transcription factors orchestrate gene networks to establish cell identity programs in early T cell development.
+* Pathogenic CD4 T cell states in chronic inflammation – identifying the molecular features and regulatory circuits that drive disease-associated, persistant pathogenic functions. 
