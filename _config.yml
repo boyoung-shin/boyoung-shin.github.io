@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shin lab@Emory"
+  name             : #"Shin lab@Emory"
   avatar           : "BShin.JPEG"
   bio              : 
   location         : 
-  employer         : "https://med.emory.edu/departments/microbiology-immunology/"
+  employer         : #"https://med.emory.edu/departments/microbiology-immunology/"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/boyoung.shin.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=KRA8RWgAAAAJ&hl=en"
   email            : "boyoung.shin@emory.edu"
