@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Boyoung Shin"
+title                    : "Shin lab @Emory"
 title_separator          : "-"
-name                     : &name "Boyoung Shin"
+name                     : &name "Shin lab @Emory"
 description              : &description "personal description"
 url                      : https://boyoung-shin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boyoung Shin"
+  name             : "Shin lab@Emory"
   avatar           : "BShin.JPEG"
   bio              : 
   location         : 
-  employer         :
+  employer         : "https://med.emory.edu/departments/microbiology-immunology/index.html"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/boyoung.shin.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=KRA8RWgAAAAJ&hl=en"
-  email            :
+  email            : "boyoung.shin@emory.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
