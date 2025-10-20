@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Boyoung Shin
+### Boyoung Shin
+
 Assistant professor,
 Department of Microbiology and Immunology,
 Emory University
