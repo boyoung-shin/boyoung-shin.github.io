@@ -23,8 +23,8 @@ This work focuses on how Runx transcription factors specifically launch the T-id
 ### Multi-modular structure of the gene regulatory network for T cell fate specification
 
 T cell gene network models capture the intricate architecture of transcription factor–target gene interactions that govern T cell fate specification. In two recent review papers, we compiled and integrated transcriptomic and genomic datasets to perform a comprehensive global analysis.  This analysis revealed a modular organization within the gene regulatory network, where coherently co-regulated genes cluster into distinct modules that function as discrete units of developmental programming.  Furthermore, these studies demonstrated how transcription factors can collaborate or counteract one another’s activity both within and across modules to shape T cell developmental gene expression programs.
-[Shin et al. , 2024 J Exp Med](https://rupress.org/jem/article/221/10/e20230893/276927/Transcriptional-network-dynamics-in-early-T-cell)
-[Shin and Rothenberg, 2023 Front Immunol](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1108368/full); 
+[Shin et al. , 2024 J Exp Med](https://rupress.org/jem/article/221/10/e20230893/276927/Transcriptional-network-dynamics-in-early-T-cell) ;
+[Shin and Rothenberg, 2023 Front Immunol](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1108368/full) 
 
 
 ### Effector CD4 T cells with progenitor potential mediate chronic intestinal inflammation
