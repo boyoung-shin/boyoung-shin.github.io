@@ -1,37 +1,19 @@
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: "research"
+permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
+### Decoding Transcription Factor Logic in Early T Cell Development
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+Transcription factors (TFs) dynamically shape gene regulatory networks, often in highly context-specific ways. But how do they “know” which exact program to control? We aim to understand how multilineage TFs influence or respond to developmental chromatin dynamics, and how combinatorial actions with partner factors uniquely guide gene regulation. To explore this, we focus on the Runx family of transcription factors during the initiation of T cell development, a stage when bone marrow progenitor cells first encounter T-lineage–instructive Notch signals and begin committing to the T cell fate in the thymus.
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
 
-{% capture written_label %}'None'{% endcapture %}
+### Gene Networks in Persistent Pathogenic CD4 T Cells During Chronic Inflammation
 
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
+In chronic inflammatory settings, specialized subsets of CD4 T cells sustain pathology by continuously replenishing proinflammatory effector pools. These “persistent pathogenic” CD4 T cells are characterized by transcriptional programs that promote self-renewal, confer resistance to apoptosis, and enable functional plasticity across multiple effector states. Our goal is to identify the transcription factors that drive this persistent pathogenic state and to reconstruct the underlying gene regulatory networks that initiate and maintain it.
+
 {% endfor %}
