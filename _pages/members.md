@@ -5,13 +5,12 @@ permalink: /members/
 author_profile: true
 ---
 
-{% include base_path %}
+
 
 ### Boyoung Shin
 
-Assistant professor
-
-Department of Microbiology and Immunology
+Assistant professor“\n”
+Department of Microbiology and Immunology“\n”
 Emory University
 
 
