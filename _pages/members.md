@@ -11,9 +11,9 @@ redirect_from:
 
 ### Boyoung Shin
 
-Assistant professor,
+Assistant professor
 
-Department of Microbiology and Immunology,
+Department of Microbiology and Immunology
 
 Emory University
 
