@@ -12,7 +12,9 @@ redirect_from:
 ### Boyoung Shin
 
 Assistant professor,
+
 Department of Microbiology and Immunology,
+
 Emory University
 
 You can see my CV [here](https://boyoung-shin.github.io/files/BShin_CV.pdf)
