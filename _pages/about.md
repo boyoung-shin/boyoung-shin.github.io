@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the Shin lab at Emory University!  We are a new research group in the Department of Microbiology and Immunology at Emory University, established in September 2025.  
+Welcome to the **Shin lab** at Emory University!  We are a new research group in the Department of Microbiology and Immunology, established in September 2025.  
 
 We investigate how gene regulatory networks define immune cell identity and effector functions.  In particular, we focus on how transcription factors that are expressed across multiple lineages achieve context-specific gene regulation.  To address these questions, we integrate molecular biology, functional genomics, and cellular immunology approaches.
 
