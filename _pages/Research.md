@@ -7,7 +7,7 @@ author_profile: true
 
 ### Decoding Transcription Factor Logic in Early T Cell Development
 
-Transcription factors (TFs) dynamically shape gene regulatory networks, often in highly context-specific ways. But how do they “know” which exact program to control? We aim to understand how multilineage TFs influence or respond to developmental chromatin dynamics, and how combinatorial actions with partner factors uniquely guide gene regulation. To explore this, we focus on the Runx family of transcription factors during the initiation of T cell development, a stage when bone marrow progenitor cells first encounter T-lineage–instructive Notch signals and begin committing to the T cell fate in the thymus.
+Transcription factors (TFs) dynamically shape gene regulatory networks, often in highly context-specific ways. But how do they “choose” which exact program to control? We aim to understand how multilineage TFs influence or respond to developmental chromatin dynamics, and how combinatorial actions with partner factors uniquely guide gene regulation. To explore this, we focus on the Runx family of transcription factors during the initiation of T cell development, a stage when bone marrow progenitor cells first encounter T-lineage–instructive Notch signals and begin committing to the T cell fate in the thymus.
 
 
 
